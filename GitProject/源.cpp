@@ -7,6 +7,6 @@ int main()
 	cout << "Visual Studio GitHub test" << endl;
 
 	getchar();
-	cout << "hello";
+	cout << "helloa";
 	return 0;
 }
